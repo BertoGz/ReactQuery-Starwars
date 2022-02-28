@@ -1,7 +1,8 @@
 
 ## Installation
 
-In the project directory, run npm install / yarn then npm/yarn start
+In the project directory, run "npm install" or "yarn" to install the project dependencies.
+to run: "npm start" or "yarn start"
 
 ## Summary
 
