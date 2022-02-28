@@ -17,7 +17,7 @@ const People = () => {
         {status === "success" && (
           <div>
             {data?.results?.map((person) => {
-              return <Person {...{ person }} />;
+              return <Person {...{key:person.name, person }} />;
             })}
           </div>
         )}

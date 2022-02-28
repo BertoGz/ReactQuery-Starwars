@@ -17,7 +17,7 @@ const Planets = () => {
         {status === "success" && (
           <div>
             {data?.results?.map((planet) => {
-              return <Planet {...{ planet }} />;
+              return <Planet {...{key:planet?.name,planet }} />;
             })}
           </div>
         )}
