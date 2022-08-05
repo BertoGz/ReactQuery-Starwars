@@ -2,8 +2,8 @@
 ## Installation
 
 In the project directory, run "npm install" or "yarn" to install the project dependencies.
-to run: "npm start" or "yarn start"
+then run the command: "npm start" or "yarn start" to start the server.
 
 ## Summary
-In this project we use React Query to manage our asynchronous data.
-We display to the screen data fetched from the Starwars api.
+In this project we use React Query to manage our server state.
+
